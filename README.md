@@ -1,2 +1,4 @@
-# Algorithm-
-algorithm study
+# Algorithm
+알고리즘 공부한 내용을 기록하기용
+매일 매일 올릴 예정
+블로글에 정리한 내용도 첨부
