@@ -1,3 +1,5 @@
+#https://www.acmicpc.net/problem/2688
+
 def sum(l:list,n) -> int:
     s = 0
     for i in range(n):
